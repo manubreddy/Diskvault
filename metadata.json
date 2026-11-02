@@ -1,0 +1,6 @@
+{
+  "name": "DiskVault",
+  "description": "Private photo backup tool that transfers your photos directly to your personal hard disk over local Wi-Fi or USB OTG without any cloud services.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
